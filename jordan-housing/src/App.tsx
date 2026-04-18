@@ -1,7 +1,7 @@
 import './App.css'
+import Navbar from './component/layout/Navbar.tsx'
 import HomeHeader from './component/common/HomeHeader.tsx'
 import Features from './component/common/Features.tsx'
-import Navbar from './component/layout/Navbar.tsx'
 
 function App() {
   return (
